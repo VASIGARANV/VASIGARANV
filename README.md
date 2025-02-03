@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Django Projects**
 
-- 🌱 I’m currently learning **Django,React**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Python , SQL,Django**
 
